@@ -1,0 +1,7 @@
+G:\Visual Studio 2010_projects\Projects\set_subPart\set_subPart\bin\Debug\set_subPart.exe
+G:\Visual Studio 2010_projects\Projects\set_subPart\set_subPart\bin\Debug\set_subPart.pdb
+G:\Visual Studio 2010_projects\Projects\set_subPart\set_subPart\obj\x86\Debug\set_subPart.exe
+G:\Visual Studio 2010_projects\Projects\set_subPart\set_subPart\obj\x86\Debug\set_subPart.pdb
+G:\Visual Studio 2010_projects\Projects\set_subPart\set_subPart\obj\x86\Debug\set_subPart.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SAMSUNG-PC\VLSI EDA Quadratic Placer\set_subPart\set_subPart\obj\x86\Debug\set_subPart.exe
+C:\Users\Administrator.SAMSUNG-PC\VLSI EDA Quadratic Placer\set_subPart\set_subPart\obj\x86\Debug\set_subPart.pdb

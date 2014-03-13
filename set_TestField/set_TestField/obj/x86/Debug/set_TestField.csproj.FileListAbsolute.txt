@@ -1,0 +1,7 @@
+G:\Visual Studio 2010_projects\Projects\set_TestField\set_TestField\bin\Debug\set_TestField.exe
+G:\Visual Studio 2010_projects\Projects\set_TestField\set_TestField\bin\Debug\set_TestField.pdb
+G:\Visual Studio 2010_projects\Projects\set_TestField\set_TestField\obj\x86\Debug\set_TestField.exe
+G:\Visual Studio 2010_projects\Projects\set_TestField\set_TestField\obj\x86\Debug\set_TestField.pdb
+G:\Visual Studio 2010_projects\Projects\set_TestField\set_TestField\obj\x86\Debug\set_TestField.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SAMSUNG-PC\VLSI EDA Quadratic Placer\set_TestField\set_TestField\obj\x86\Debug\set_TestField.exe
+C:\Users\Administrator.SAMSUNG-PC\VLSI EDA Quadratic Placer\set_TestField\set_TestField\obj\x86\Debug\set_TestField.pdb
